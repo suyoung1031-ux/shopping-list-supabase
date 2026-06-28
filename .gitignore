@@ -1,0 +1,11 @@
+node_modules/
+.playwright-mcp/
+*.txt
+*.py
+*.pdf
+*.docx
+*.pptx
+*.png
+package.json
+package-lock.json
+.claude/
